@@ -1,0 +1,36 @@
+body {
+    background: url("images/background.webp") no-repeat fixed center;
+  }
+
+h1{
+    text-align: center;
+    padding-top: 1rem;
+}
+
+.container1{
+    display: flex;;
+    align-items: center;
+    background-color: white;
+    padding: 8px;
+    justify-content: center;
+    padding: 30px;
+}
+
+.container2{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+#button{
+  background-color: rgb(72, 170, 203);
+  border: none;
+  color: white;
+  padding: 5px 5px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  margin: 4px 2px;
+  cursor: pointer;
+}
